@@ -8,6 +8,9 @@ biek_share_minsungkim
 This project shows statistical bike share data from three cities (Chicago, New York City, and Washington, DC.).
 
 ### Files used
+'chicago.csv'
+'new_york_city.csv'
+'washington.csv'
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
